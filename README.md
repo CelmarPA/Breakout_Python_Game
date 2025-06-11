@@ -70,6 +70,7 @@ cd breakout-game
 ### 2. Run the game
 
 ```bash
+pip install -r requirements.txt
 python3 main.py
 ```
 
