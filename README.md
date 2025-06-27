@@ -35,6 +35,8 @@ A visually enhanced **Breakout-style game** built with **Python** and the **Turt
 - Fully responsive to window resizing
 - Built with **pure Python + Turtle**
 
+![Space Invaders Screenshot](breakout-game/images/screenshot/screenshot.png)
+
 ---
 
 ## ⚙️ How It Works
